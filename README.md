@@ -4,6 +4,7 @@ Its a boilerplate project to start with ES6 at client side. You can directly clo
 # Steps to install this on your local
 
 * Clone the repository or download the source code.
+* Make sure that node.js and npm package manager are installed on your system. [https://nodejs.org]
 * Run **npm install** command
 * Run **npm run watch** command to dynamically build the source when you create/edit something in scripts directory. 
 
